@@ -1,0 +1,12 @@
+/* Estilo a nivel de identificador */
+#titulo-principal {
+    background-color: #08b2dc;
+    margin-top: 1px;
+    padding: 30px;
+    border-radius: px;
+}
+body #titulo-principal h1 {
+    color: blue;
+}
+
+
